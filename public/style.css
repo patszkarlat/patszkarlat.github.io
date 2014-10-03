@@ -30,12 +30,24 @@ width: 100vw;
 /*this is code for contact stuff*/
 #contact {
 background-color: black;
-height: 100vh;
+height: 100px;
 width: 100vw;
+
 }
 
+#contact-info {
+	padding-top: 25px;
+}
+
+a {
+	margin: 0 auto;
+	color: white !important;
+	font-family: Dosis;
+	font-size: 24px;
+}
 .social-icons {
 color: white;
-font-size: 35px;
+font-size: 45px;
 margin-right: 40px;
+margin-left: 40px;
 }
