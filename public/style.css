@@ -1,23 +1,41 @@
 #landing {
-background-colour: white;
-height: 100%;
+background-color: #d0482b;
+height: 100vh !important;
 width: 100%;
+}
+
+.about-me-p {
+	margin-top: 20px !important; 
+	font-size: 24px;
+	font-family: Dosis;
+}
+
+.img-container {
+	margin-top: 380px;
 }
 
 #about {
-background-colour: black;
-height: 100%;
+background-color: black;
+height: 100vh;
 width: 100%;
+margin-top: ;
 }
 
 #portfolio {
-background-colour: white;
-height: 100%;
-width: 100%;
+background-color: #d0482b;
+height: 100vh;
+width: 100vw;
 }
 
+/*this is code for contact stuff*/
 #contact {
-background-colour: black;
-height: 100%;
-width: 100%;
+background-color: black;
+height: 100vh;
+width: 100vw;
+}
+
+.social-icons {
+color: white;
+font-size: 35px;
+margin-right: 40px;
 }
