@@ -1,22 +1,22 @@
 #landing {
 background-color: #d0482b;
-height: 100vh !important;
+height: 120vh !important;
 width: 100%;
 }
 
 .about-me-p {
 	margin-top: 20px !important; 
-	font-size: 24px;
+	font-size: 20px;
 	font-family: Dosis;
 }
 
 .img-container {
-	margin-top: 380px;
+	margin-top: 250px;
 }
 
 #about {
 background-color: white;
-height: 100vh;
+height: 180vh;
 width: 100%;
 margin-top: ;
 }
@@ -45,6 +45,7 @@ a {
 	font-family: Dosis;
 	font-size: 24px;
 }
+
 .social-icons {
 color: white;
 font-size: 45px;
