@@ -1,38 +1,39 @@
 #landing {
 background-color: #d0482b;
-height: 120vh !important;
+height: 400vh !important;
 width: 100%;
 }
 
 .about-me-p {
-	margin-top: 20px !important; 
+	margin-top: 50px !important; 
 	font-size: 20px;
 	font-family: Dosis;
 }
 
 .img-container {
-	margin-top: 250px;
+	margin-top: 350px;
 }
 
-#about {
+/*#about {
 background-color: white;
 height: 180vh;
 width: 100%;
 margin-top: ;
-}
+}*/
 
-#portfolio {
+/*#portfolio {
 background-color: black;
 height: 100vh;
 width: 100vw;
-}
+}*/
 
 /*this is code for contact stuff*/
 #contact {
-background-color: #d0482b;
+background-color: black;
 height: 100px;
 width: 100vw;
-
+/*padding-top: 200px;
+*/
 }
 
 #contact-info {
